@@ -1,2 +1,1 @@
 # FirstGitRepositoryReadmeFile
-# Adding new text
